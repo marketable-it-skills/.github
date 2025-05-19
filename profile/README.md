@@ -1,1 +1,1 @@
-# marketable-it-skills
+# Marketable IT Skills - Erasmus+ project
