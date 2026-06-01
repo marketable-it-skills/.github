@@ -17,9 +17,9 @@ The project's task collection draws upon the competition materials of **WorldSki
 This GitHub organization hosts the open components of the MITS ecosystem:
 
 - **[MITS Platform](https://skillsit.eu)** — the web application that publishes project tasks and tutorials and provides evaluation support.
+- **[Contribution Guide](https://github.com/marketable-it-skills/.github/blob/main/CONTRIBUTING.md)** — how to contribute your own project tasks and tutorials, or report issues.
 - **[Project Task Updater Toolkit](https://github.com/marketable-it-skills/mits-project-task-updater-toolkit)** — AI-supported tooling that helps bring project tasks into the standardized MITS format.
 - **[Project Task Template](https://github.com/marketable-it-skills/mits-project-task-template)** — a starting-point repository with the folder and file structure expected by MITS.
-- **[Contribution Guide](https://github.com/marketable-it-skills/.github/blob/main/CONTRIBUTING.md)** — how to contribute your own project tasks and tutorials, or report issues.
 
 ## Who MITS is for
 
